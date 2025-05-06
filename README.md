@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/16028d5e-289b-4e5c-a160-a21b558318d1)
 
-I have attached full report on the project. Please go through that 🙂. Link to the report - 
+I have attached full report on the project. Please go through that 🙂. Link to the report - https://github.com/Shivam05Singh11Rawat98/MongoDB_Redis_Geospatial/blob/main/DBA_FinalProject_MongoDB.pdf
 
 Compared MongoDB and Redis for geospatial data processing to evaluate performance and cost trade-offs for large-scale spatial applications, resulting in clear use-case recommendations (Redis for real-time low-latency needs, MongoDB for complex queries).
 
