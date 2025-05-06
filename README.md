@@ -1,5 +1,9 @@
 # MongoDB_Redis_Geospatial
 
+![image](https://github.com/user-attachments/assets/16028d5e-289b-4e5c-a160-a21b558318d1)
+
+I have attached full report on the project. Please go through that 🙂. Link to the report - 
+
 Compared MongoDB and Redis for geospatial data processing to evaluate performance and cost trade-offs for large-scale spatial applications, resulting in clear use-case recommendations (Redis for real-time low-latency needs, MongoDB for complex queries).
 
 Prepared and optimized OpenStreetMap (OSM) datasets for MongoDB and Redis compatibility, enabling accurate benchmarking of 1.8M records, with Redis achieving 12x faster match queries (90ms vs. MongoDB’s 1081ms).
